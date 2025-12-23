@@ -7,7 +7,7 @@ An automated checkout system for convenience stores leveraging computer vision t
 
 ### 1. Clone the Repository
 
-Download the project files **best.pt** **smart_checkout.py** to your local machine
+Download the project files **best.pt** and **smart_checkout.py** to your local machine
 
 ### 2. Install Dependencies
 

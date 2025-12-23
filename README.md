@@ -42,7 +42,7 @@ Run the application using the following command:
 python smart_checkout.py
 ```
 
-Note: You can now use your cellphone's camera to identify and display the prices of all chips captured on the screen in real-time.
+Note: You can now use your cellphone's camera to identify and display the prices of all 47 types of chips captured on the screen in real-time.
 
 ![image](https://github.com/shoumft/ML_finalProject/blob/main/resultExample1.jpg)
 ![image](https://github.com/shoumft/ML_finalProject/blob/main/resultExample2.jpg)

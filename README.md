@@ -7,7 +7,7 @@ An automated checkout system for convenience stores leveraging computer vision t
 
 ### 1. Clone the Repository
 
-Download the project files to your local machine
+Download the project files **best.pt** **smart_checkout.py** to your local machine
 
 ### 2. Install Dependencies
 
@@ -43,3 +43,6 @@ python smart_checkout.py
 ```
 
 Note: You can now use your cellphone's camera to identify and display the prices of all chips captured on the screen in real-time.
+
+![image](https://github.com/shoumft/ML_finalProject/blob/main/resultExample1.jpg)
+![image](https://github.com/shoumft/ML_finalProject/blob/main/resultExample2.jpg)
